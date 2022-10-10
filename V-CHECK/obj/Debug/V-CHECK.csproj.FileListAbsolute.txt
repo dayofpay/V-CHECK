@@ -8,3 +8,13 @@ C:\Users\VCompany\source\repos\V-CHECK\V-CHECK\bin\Debug\Newtonsoft.Json.xml
 C:\Users\VCompany\source\repos\V-CHECK\V-CHECK\obj\Debug\V-CHECK.csproj.CopyComplete
 C:\Users\VCompany\source\repos\V-CHECK\V-CHECK\obj\Debug\V-CHECK.exe
 C:\Users\VCompany\source\repos\V-CHECK\V-CHECK\obj\Debug\V-CHECK.pdb
+C:\Users\VCompany\Documents\GitHub\V-CHECK\V-CHECK\bin\Debug\V-CHECK.exe.config
+C:\Users\VCompany\Documents\GitHub\V-CHECK\V-CHECK\bin\Debug\V-CHECK.exe
+C:\Users\VCompany\Documents\GitHub\V-CHECK\V-CHECK\bin\Debug\V-CHECK.pdb
+C:\Users\VCompany\Documents\GitHub\V-CHECK\V-CHECK\bin\Debug\Newtonsoft.Json.dll
+C:\Users\VCompany\Documents\GitHub\V-CHECK\V-CHECK\bin\Debug\Newtonsoft.Json.xml
+C:\Users\VCompany\Documents\GitHub\V-CHECK\V-CHECK\obj\Debug\V-CHECK.csprojAssemblyReference.cache
+C:\Users\VCompany\Documents\GitHub\V-CHECK\V-CHECK\obj\Debug\V-CHECK.csproj.CoreCompileInputs.cache
+C:\Users\VCompany\Documents\GitHub\V-CHECK\V-CHECK\obj\Debug\V-CHECK.csproj.CopyComplete
+C:\Users\VCompany\Documents\GitHub\V-CHECK\V-CHECK\obj\Debug\V-CHECK.exe
+C:\Users\VCompany\Documents\GitHub\V-CHECK\V-CHECK\obj\Debug\V-CHECK.pdb

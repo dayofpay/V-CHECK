@@ -79,6 +79,7 @@ namespace V_CHECK
                             }
                             else
                             {
+                                validVignette++;
                                 Console.ForegroundColor = ConsoleColor.Green;
                                 Console.WriteLine("[ИМА ВИНЕТКА] " + x);
                                 writer2.WriteLine(x);
